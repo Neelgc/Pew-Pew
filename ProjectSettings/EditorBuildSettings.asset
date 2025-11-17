@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TESTROOM.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 84c09b39c658f974e81d59f6ea9ee99d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu_UI.unity
+    guid: c73f2b31c2b59064694909091424c0f2
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelSelection.unity
+    guid: e476add144f8eef44a44d3e38cf3686e
+  - enabled: 1
+    path: Assets/Scenes/Level/Game_HUD.unity
+    guid: 92a92d9ad271545419c0390786141a63
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_1.unity
+    guid: 40be3d4f998dfa24793ff9a7d9a56bb9
+  - enabled: 1
+    path: Assets/Scenes/Level/End_UI.unity
+    guid: 16aa7df3d7539224c94bd449a14174f1
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 082e3b443b6e5394cae04836db3b01a9
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_2.unity
+    guid: 6c58002657500fd4793957da07c21e4e
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_3.unity
+    guid: a02148650eaf77a43a8508b49a29a148
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_11.unity
+    guid: 3e2707db21302ca4995763854262ece5
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_9.unity
+    guid: 386bb8341c11b3a4eac7019c84fa5d33
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_6.unity
+    guid: 2cf03c08169f3084a87b261c2030d1e3
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_7.unity
+    guid: f931651591819074192660105d363981
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_8.unity
+    guid: 8e9c9edb2395eae448a513cf85c3707e
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_5.unity
+    guid: 8c34fa8dd40c5e643aee07fa6d78f95c
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_10.unity
+    guid: 9983664faebdff849b7abf1ae5962179
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_4.unity
+    guid: 7ce4ccd6ced75f744ae13c9bc865bd34
+  - enabled: 1
+    path: Assets/Scenes/Level/LevelGame/Level_12.unity
+    guid: f3db81a127477b344bacbb69087ec4ca
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
